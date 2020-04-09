@@ -1,6 +1,6 @@
 ### SEC Parser
 
-This software detects individuals selling unregistered securities (laundering money). This software was used to short or hedge against the companies, i.e. make money.  This activity is also known as pumping and dumping and it is illegal.
+This software detects individuals selling unregistered securities (laundering money) and the companies they use. This software was designed to leverage this insight to acquire short positions or hedge against the companies.  The activity this software identifies also known as pumping and dumping.
 
 To read the legal consequence [see SEC Case and SDNY Case 14-00399](https://cane.ashermadison.com/wp-content/uploads/sites/3/2014/07/20140715-us-v-cane-et-al-case-no-14-00399.pdf) and see (documents/Offshore_Accounts.pdf).
 
