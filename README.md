@@ -1,8 +1,8 @@
 ### SEC Parser
 
-This was used to catch an attorney launder money.
+This software detects individuals selling unregistered securities (laundering money). This software was used to short or hedge against the companies, i.e. make money.  This activity is also known as pumping and dumping and it is illegal.
 
-This software created timeline and support information which evidenced individuals involved in schemes to launder money through pumping and dumping of unregistered securities.  To read the legal consequence [see SEC Case and SDNY Case 14-00399](https://cane.ashermadison.com/wp-content/uploads/sites/3/2014/07/20140715-us-v-cane-et-al-case-no-14-00399.pdf) and see (documents/Offshore_Accounts.pdf).
+To read the legal consequence [see SEC Case and SDNY Case 14-00399](https://cane.ashermadison.com/wp-content/uploads/sites/3/2014/07/20140715-us-v-cane-et-al-case-no-14-00399.pdf) and see (documents/Offshore_Accounts.pdf).
 
 ## Workflow
 
@@ -42,7 +42,9 @@ This information can be used in a number of ways.
 2. Identify companies to short their stock
 3. Hedgefund heuristics
 
-## MIT License
+## Disclaimer
+
+This was written about 10 years ago, however, it appears that the scheme is still employed at some scale.
 
 
 
