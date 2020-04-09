@@ -8,13 +8,13 @@ This software created timeline and supporting information which idenitified indi
 
 The user must provide the target companies to the system. Then the system will process SEC files fetched from their servers. Once the registration data has been processed. The user is presented with names and entities with charts of flagged activities. 
 
-![Diagram 1](documents/diagra001.png)
+![Diagram 1](documents/diagram001.png)
 
-![Diagram 1](documents/diagra002.png)
+![Diagram 1](documents/diagram002.png)
 
-![Diagram 1](documents/diagra003.png)
+![Diagram 1](documents/diagram003.png)
 
-![Diagram 1](documents/diagra004.png)
+![Diagram 1](documents/diagram004.png)
 
 ## Method
 
