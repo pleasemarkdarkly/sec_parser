@@ -1,20 +1,22 @@
 ### SEC Parser
 
-This project was created to identify individuals and companies which were used to launder money.
+This was used to catch an attorney launder money.
 
-This software created timeline and supporting information which idenitified individuals involved in a [SEC Case and SDNY Case 14-00399](Offshore_Accounts.pdf).
+This software created timeline and support information which evidenced individuals involved in schemes to launder money through pumping and dumping of unregistered securities.  To read the legal consequences [see SEC Case and SDNY Case 14-00399](Offshore_Accounts.pdf).
 
 ## Workflow
 
-The user must provide the target companies to the system. Then the system will process SEC files fetched from their servers. Once the registration data has been processed. The user is presented with names and entities with charts of flagged activities. 
+The user must provide the target companies to the system. Then the system will process SEC regulatory files from their servers and digtest them. _This takes both time and storage_ Once the public filings have been processed. The user is presented with names and entities and charts of flagged activities. This is an example.
 
 ![Diagram 1](documents/diagram001.png)
 
+The left top diagram lists the individuals involved. The left middle diagram highlights activiites flagged by the system. The bottom left diagram is the stock volume and price. The diagrams attempt to make transparent a number of activites before, during, and after the pump and dump activity. The diagram on the right computes the total value of the activity.
+
+The above scheme was further analyzed using actual stock ledgers and price breakdowns. [This](Offshore_Accounts.pdf) document contains the stock ledger, the off-shore Cayman Island invoices, and an overview of the operations of the brokerage house [LOM Securities]((https://www.lom.com/). The spreadsheet validates the software output.
+
 ![Diagram 1](documents/diagram002.png)
 
-![Diagram 1](documents/diagram003.png)
-
-![Diagram 1](documents/diagram004.png)
+Entties are extracted from the SEC filings and tracked when they are active or inactive in the company. Additionally, the timelines track the _underlying_ company, or the entities prior to the shell company. 
 
 ## Method
 
@@ -41,6 +43,9 @@ This information can be used in a number of ways.
 1. Idenitfy individuals involved in financial schemes
 2. Identify companies to short their stock
 3. Hedgefunds
+
+## MIT License
+
 
 
 
