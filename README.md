@@ -2,7 +2,7 @@
 
 This was used to catch an attorney launder money.
 
-This software created timeline and support information which evidenced individuals involved in schemes to launder money through pumping and dumping of unregistered securities.  To read the legal consequences [see SEC Case and SDNY Case 14-00399](documents/Offshore_Accounts.pdf).
+This software created timeline and support information which evidenced individuals involved in schemes to launder money through pumping and dumping of unregistered securities.  To read the legal consequence [see SEC Case and SDNY Case 14-00399](https://cane.ashermadison.com/wp-content/uploads/sites/3/2014/07/20140715-us-v-cane-et-al-case-no-14-00399.pdf) and see (documents/Offshore_Accounts.pdf).
 
 ## Workflow
 
