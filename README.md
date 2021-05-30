@@ -1,8 +1,6 @@
 ### SEC Parser
 
-This software detects individuals selling unregistered securities (laundering money) and the companies they use. This software was designed to leverage this insight to acquire short positions or hedge against the companies.  The activity this software identifies is also known as pumping and dumping.
-
-To read the legal consequence [see SDNY Case 14-00399](https://cane.ashermadison.com/wp-content/uploads/sites/3/2014/07/20140715-us-v-cane-et-al-case-no-14-00399.pdf) and [another case](documents/Offshore_Accounts.pdf).
+This software detects individuals selling unregistered securities and the companies they use. This software was designed to leverage this insight to acquire short positions or hedge against the companies.  The activity this software identifies is also known as pumping and dumping.
 
 ## Workflow
 
@@ -45,10 +43,6 @@ This information can be used in a number of ways.
 1. Idenitfy individuals involved in financial schemes
 2. Identify companies to short their stock
 3. Hedgefund heuristics
-
-## Disclaimer
-
-This was written about 10 years ago, however, it appears that the scheme is still employed at some scale.
 
 
 
